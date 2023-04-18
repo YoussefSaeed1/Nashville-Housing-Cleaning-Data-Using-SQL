@@ -1,5 +1,5 @@
 # Nashville-Housing-Cleaning-Data-Using-SQL
-![Alt text](/Desktop/path/to/img.png "210413655-5fd38e4e-69de-4afe-b645-63603c5bc25f")
+![Alt text](Nashville-Housing-Cleaning-Data-Using-SQL.png"210413655-5fd38e4e-69de-4afe-b645-63603c5bc25f.png")
 
 The following steps were implemented to ensure data accuracy and completeness for analysis purposes:
 
