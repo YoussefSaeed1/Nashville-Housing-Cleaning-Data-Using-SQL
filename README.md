@@ -1,5 +1,5 @@
 # Nashville-Housing-Cleaning-Data-Using-SQL
-
+210413655-5fd38e4e-69de-4afe-b645-63603c5bc25f.png
 
 
 The following steps were implemented to ensure data accuracy and completeness for analysis purposes:
